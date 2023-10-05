@@ -31,7 +31,6 @@ In summary, the company should devise attractive offers during the pleasant spri
 ## Acknowledgements
 Give credit here.
 - This project was inspired by Upgrad.
-- References if any...
 - This project was based on the BoomBikes sharing.
 
 
